@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Large dataset files (>100MB exceeds GitHub file size limit)
+data/raw/vcf/*.vcf.gz
+data/raw/vcf/*.vcf.gz.tbi
+data/raw/vcf/*.vcf
+
+# Archives
+*.zip
+
+# OS and Editor artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

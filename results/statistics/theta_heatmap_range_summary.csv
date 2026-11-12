@@ -1,0 +1,4 @@
+category,minimum_snp_count,maximum_snp_count,number_of_regions,percentage_of_existing_regions,high_min,high_max,high_midpoint,total_existing_regions
+0–1000,0.0,1000.0,150,5.195704883962591,1020,68217,34618.5,2887
+1000–high_midpoint,1000.0,34618.5,2654,91.92933841357811,1020,68217,34618.5,2887
+high_midpoint–high_max,34618.5,68217.0,83,2.8749567024593,1020,68217,34618.5,2887

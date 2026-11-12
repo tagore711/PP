@@ -1,0 +1,2 @@
+vcf_file,chromosome,chromosome_length_bp,length_source,number_of_theta_regions,total_vcf_records,snp_records,excluded_records
+ALL.chr6.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,6,170805979,GRCh38 reference,171,4863337,4539754,323583

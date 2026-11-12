@@ -1,0 +1,16 @@
+metric,value
+chromosomes_processed,22
+theta_size_bp,1000000
+total_regions,2887
+total_snp_records,73159508
+mean_snps_per_chromosome,3325432.18
+median_snps_per_chromosome,3339658.5
+population_stddev_per_chromosome,1523191.85
+minimum_snp_chromosome,chr21
+minimum_snp_count,976599
+maximum_snp_chromosome,chr2
+maximum_snp_count,6356815
+mean_snps_per_region,25341.01
+median_snps_per_region,26758
+maximum_region_snp_count,68217
+minimum_region_snp_count,0

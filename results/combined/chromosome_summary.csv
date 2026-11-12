@@ -1,0 +1,23 @@
+chromosome,vcf_file,chromosome_length_bp,length_source,number_of_theta_regions,total_vcf_records,snp_records,excluded_records
+chr1,ALL.chr1.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,248956422,GRCh38 reference,249,6191833,5795045,396788
+chr2,ALL.chr2.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,242193529,GRCh38 reference,243,6790551,6356815,433736
+chr3,ALL.chr3.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,198295559,GRCh38 reference,199,5641493,5280536,360957
+chr4,ALL.chr4.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,190214555,GRCh38 reference,191,5477810,5120664,357146
+chr5,ALL.chr5.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,181538259,GRCh38 reference,182,5115036,4788374,326662
+chr6,ALL.chr6.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,170805979,GRCh38 reference,171,4863337,4539754,323583
+chr7,ALL.chr7.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,159345973,GRCh38 reference,160,4511408,4222931,288477
+chr8,ALL.chr8.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,145138636,GRCh38 reference,146,4425449,4162377,263072
+chr9,ALL.chr9.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,138394717,GRCh38 reference,139,3384360,3178999,205361
+chr10,ALL.chr10.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,133797422,GRCh38 reference,134,3874259,3632297,241962
+chr11,ALL.chr11.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,135086622,GRCh38 reference,136,3881791,3642067,239724
+chr12,ALL.chr12.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,133275309,GRCh38 reference,134,3745465,3500318,245147
+chr13,ALL.chr13.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,114364328,GRCh38 reference,115,2760845,2575087,185758
+chr14,ALL.chr14.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,107043718,GRCh38 reference,108,2548903,2383125,165778
+chr15,ALL.chr15.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,101991189,GRCh38 reference,102,2301453,2153932,147521
+chr16,ALL.chr16.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,90338345,GRCh38 reference,91,2548920,2410531,138389
+chr17,ALL.chr17.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,83257441,GRCh38 reference,84,2209149,2066684,142465
+chr18,ALL.chr18.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,80373285,GRCh38 reference,81,2189529,2047353,142176
+chr19,ALL.chr19.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,58617616,GRCh38 reference,59,1738824,1625698,113126
+chr20,ALL.chr20.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,64444167,GRCh38 reference,65,1817492,1706442,111050
+chr21,ALL.chr21.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,46709983,GRCh38 reference,47,1045269,976599,68670
+chr22,ALL.chr22.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf.gz,50818468,GRCh38 reference,51,1059079,993880,65199

@@ -1,0 +1,20 @@
+chromosome,region_number,region_start_bp,region_end_bp,snp_count,category
+chr1,123,122000001,123000000,0,Remove Candidate
+chr1,124,123000001,124000000,0,Remove Candidate
+chr1,127,126000001,127000000,0,Remove Candidate
+chr1,128,127000001,128000000,0,Remove Candidate
+chr1,129,128000001,129000000,0,Remove Candidate
+chr1,130,129000001,130000000,0,Remove Candidate
+chr1,131,130000001,131000000,0,Remove Candidate
+chr1,132,131000001,132000000,0,Remove Candidate
+chr1,133,132000001,133000000,0,Remove Candidate
+chr1,134,133000001,134000000,0,Remove Candidate
+chr1,135,134000001,135000000,0,Remove Candidate
+chr1,136,135000001,136000000,0,Remove Candidate
+chr1,137,136000001,137000000,0,Remove Candidate
+chr1,138,137000001,138000000,0,Remove Candidate
+chr1,139,138000001,139000000,0,Remove Candidate
+chr1,140,139000001,140000000,0,Remove Candidate
+chr1,141,140000001,141000000,0,Remove Candidate
+chr1,142,141000001,142000000,0,Remove Candidate
+chr1,143,142000001,143000000,0,Remove Candidate
